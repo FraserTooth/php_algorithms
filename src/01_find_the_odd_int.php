@@ -1,3 +1,4 @@
+<?php
 function findIt(array $seq) : int
 {
     $map=array();
