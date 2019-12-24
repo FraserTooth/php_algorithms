@@ -1,5 +1,8 @@
 <?php
 
+//From an Array of Integers
+//Return the Integer that appears an Odd Number of Times
+
 use PHPUnit\Framework\TestCase;
 
 require './src/01_find_the_odd_int.php';
